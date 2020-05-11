@@ -1,5 +1,6 @@
 # Predictive-Text
-Word Predictor using n-gram likelihood estimators
+
+Word Predictor using n-gram likelihood estimators.  This is the Capstone project for the Johns Hopkins [Data Specialisation](https://www.coursera.org/specializations/jhu-data-science) Coursera course completed in August 2019.
 
 ## MyWord - the simple predictor 
 
