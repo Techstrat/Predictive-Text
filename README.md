@@ -77,7 +77,7 @@ Scripts:
 
 ## Merge n-grams
 
-Merge the n-grams from the 3 source files into 5 files. Each line in the n-gram files countatina a column of n words with a second column listing their frequency. 
+Merge the n-grams from the 3 source files into 5 files. Each line in the n-gram files countains a column of n words with a second column listing their frequency. 
 
 oneGrams.csv, twoGrams.csv, threeGrams.csv, fourGrams.csv, fiveGrams.csv
 
